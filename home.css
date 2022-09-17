@@ -1,0 +1,40 @@
+body {
+  margin: 0px;
+}
+.header {
+  background-color: rgb(34, 33, 33);
+}
+.header > div {
+  color: rgb(241, 60, 60);
+  font-size: 30px;
+  padding: 6px;
+}
+.file_control {
+  background-color:rgb(59, 175, 131);
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+.upload {
+  background-color: blue;
+  text-align: center;
+  padding: 15px 20px 15px 20px;
+  margin-right: 100px;
+}
+.myfile {
+  background-color: silver;
+  text-align: center;
+  padding: 15px 20px 15px 20px;
+}
+.category_all {
+  background-color:rgb(40, 218, 209);
+  display: flex;
+  padding: 50px;
+  padding-bottom: 800px;
+  justify-content: space-between;
+}
+.japanese_ca, .math_ca, .english_ca, .science_ca, .society_ca {
+  background-color: yellow;
+  padding: 100px;
+}
