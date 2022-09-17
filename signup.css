@@ -1,0 +1,29 @@
+body {
+  margin: 0px;
+}
+.header {
+  background-color: rgb(34, 33, 33);
+}
+.header > div {
+  color: rgb(241, 60, 60);
+  font-size: 30px;
+  padding: 6px;
+}
+main {
+  text-align: center;
+}
+.title {
+  font-size: 36px;
+  font-weight:  600
+}
+.create_id {
+  margin-top: 30px;
+  font-size: 18px;
+}
+.create_password {
+  margin-top: 20px;
+  font-size: 18px;
+}
+.create {
+  margin-top: 20px;
+}
