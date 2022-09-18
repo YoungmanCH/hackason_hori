@@ -10,31 +10,34 @@ body {
   padding: 6px;
 }
 .file_control {
-  background-color:rgb(59, 175, 131);
+  background-color:rgb(107, 117, 113);
   display: flex;
   justify-content: center;
   padding-top: 20px;
   padding-bottom: 20px;
 }
 .upload {
-  background-color: blue;
+  background-color: rgb(202, 202, 218);
   text-align: center;
   padding: 15px 20px 15px 20px;
   margin-right: 100px;
 }
 .myfile {
-  background-color: silver;
+  background-color: rgb(202, 202, 218);
   text-align: center;
   padding: 15px 20px 15px 20px;
 }
 .category_all {
-  background-color:rgb(40, 218, 209);
+  background-color:rgb(190, 190, 190);
   display: flex;
   padding: 50px;
   padding-bottom: 800px;
   justify-content: space-between;
 }
 .japanese_ca, .math_ca, .english_ca, .science_ca, .society_ca {
-  background-color: yellow;
-  padding: 100px;
+  background-color: rgb(231, 231, 231);
+  padding: 80px 100px;
+  font-size: 36px;
+  border: 2px solid rgb(255, 58, 58);
+  border-radius: 18px;
 }
